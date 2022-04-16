@@ -1,4 +1,4 @@
-# Clifford VQE
+# VQE for H2 Simulation using Clifford Ansatz
 
 In quantum chemistry application, the problem of finding the minimum eigenvalue of a matrix is very crucial, as it can be used to correspond to the minimum eigenvalue of a Hermitian matrix characterizing the molecule's ground state energy.
 
